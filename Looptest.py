@@ -16,7 +16,6 @@ type_trax = "Credited"
 credited_amt = 10000
 total_bal = balance + credited_amt
 
-
 message_1 = f"""Dear {customer_name}, your account number ending with {account_num} 
             has been {type_trax} with {credited_amt},
             total bal is {total_bal}. if this not done by you reach out to @email.com"""

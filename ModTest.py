@@ -47,11 +47,18 @@ import random
 
 # print(help(random.shuffle))
 
+
+#Front End - HTML, CSS, JavaScript
+
+
+
 a = 1
 pranav_count = 0
 afroz_count = 0
 khaja_count = 0
+
 while a < 1000:
+
     result = random.choice(["John", "Afroz", "Pranav", "Khaja"])
     if result ==  "Afroz":
         afroz_count = afroz_count + 1
@@ -59,6 +66,7 @@ while a < 1000:
         pranav_count = pranav_count + 1
     elif result ==  "Khaja":
         khaja_count = khaja_count + 1
+    
     a = a + 1
 
 print(f"Afroz: {afroz_count}, Pranav: {pranav_count}, Khaja: {khaja_count}")

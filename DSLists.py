@@ -19,15 +19,12 @@
 # 6. pop
 # 7. remove
 
-
 cities = ["Hyderabad", "Chennai", "Mumbai", "Kolkota"]
 
 # cities.append("Pune")
 # cities.append("Noida")
 # cities.append("Delhi")
-
 # cities.insert(1, "Pune")
-
 
 
 # x = [1,4,9,16,25, ]

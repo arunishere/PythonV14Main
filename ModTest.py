@@ -21,8 +21,6 @@ import math
 
 #     a = a + 1
 
-
-
 # a = 1
 # total_even = 0
 # while a < 101:

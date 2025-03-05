@@ -32,9 +32,6 @@ cities_2 = {'London': None,
             'Paris': None
             }
 
-
-
-
 major_cities_continent = {
                         'Asia': ['Delhi', 'Lahore', 'Dhaka', 'Khatmandu', 'Beiging'],
                         'Europe': ['Bucharest', 'Sicily', 'London', 'Venice'],

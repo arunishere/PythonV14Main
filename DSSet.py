@@ -10,9 +10,6 @@ numbers = {
 
 numbers.add(100)
 
-
-
-
 survey_1 = { "Ankith",
             "Vaibhav",
             "Santhosh",
@@ -29,7 +26,6 @@ survey_2 = {
             "Abhishek"
             }
 
-
 cse_students = {
             "Zen",
             "Pascal",
@@ -38,17 +34,11 @@ cse_students = {
             "Jaine",
             "Abhishek"
             }
-             
+
 ai_students = {
-             "Jaine",
+            "Jaine",
             "Abhishek",
-            "Prashanth"     
-                }
+            "Prashanth"
+            }
 
-
-
-
-common = cse_students.issuperset(ai_students)
-
-
-print(common)
+# print(common)

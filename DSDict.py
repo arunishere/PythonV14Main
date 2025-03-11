@@ -5,7 +5,6 @@
 #Delete values
 #working with more than one
 
-
 #Dictonary
 
 cities = {

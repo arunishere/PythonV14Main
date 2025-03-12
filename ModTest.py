@@ -48,8 +48,6 @@ import random
 
 #Front End - HTML, CSS, JavaScript
 
-
-
 a = 1
 pranav_count = 0
 afroz_count = 0
@@ -64,7 +62,6 @@ while a < 1000:
         pranav_count = pranav_count + 1
     elif result ==  "Khaja":
         khaja_count = khaja_count + 1
-    
     a = a + 1
 
 print(f"Afroz: {afroz_count}, Pranav: {pranav_count}, Khaja: {khaja_count}")

@@ -17,7 +17,6 @@
 
 
 name = "Vivek"
-
 location = "Hyderabad"
 
 

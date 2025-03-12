@@ -36,12 +36,9 @@ letter_number = {
 user_number_input = input("Enter the number: ")
 #567
 
-
 word_list = []
 for i in user_number_input:
     word_list.append(letter_number[int(i)])
-
-
 print(word_list)
 
 

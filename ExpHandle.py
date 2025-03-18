@@ -17,10 +17,14 @@ india_sales = 0
 print(france_sales/india_sales)
 
 
+# Types of Errors. 
 
-#IndexError
-#ValueError
-#KeyError
+#1.IndexError
+#2.ValueError (Lists)
+#3.KeyError (Dictionary)
+#4.ZeroDivisionError 
+
+
 
 # print("Get to know your city's position in the recent Cities Survey")
 # print("============================================================")
